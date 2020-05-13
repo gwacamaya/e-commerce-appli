@@ -1,0 +1,38 @@
+.card {
+    border: 1px solid black;
+    margin-bottom: 1em;
+    border-radius: 0.5em;
+    padding: 1em;
+    background: #FFF;
+    color: #000;
+}
+
+.parent {    
+    padding: 2em;
+}
+
+.catalog {
+    flex-direction: column;
+    width: 700px;
+}
+
+.article {
+    background-color: cadetblue;
+    width: 160px;
+    height: 150px
+
+}
+
+.depot {
+    justify-content: space-around;
+}
+
+.flexWrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.panierWidth {
+    width: 550px;
+}
+
